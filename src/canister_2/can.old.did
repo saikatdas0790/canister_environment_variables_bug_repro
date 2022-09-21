@@ -1,0 +1,1 @@
+service : { log_some_env_variables : () -> () query }

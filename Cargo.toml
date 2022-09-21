@@ -1,4 +1,2 @@
 [workspace]
-members = [
-    "src/canister_environment_variables_bug_repro_backend",
-]
+members = ["src/canister_1", "src/canister_2"]
